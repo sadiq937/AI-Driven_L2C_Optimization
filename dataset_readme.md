@@ -1,4 +1,5 @@
-# AI-Driven Lead-to-Cash (L2C) Process Optimization
+# AI-Driven Lead-to-Cash (L2C) Process Optimization 
+## By Kaza Geetanjali and FNU Shaik Mohammed Sadiq
 
 ## GitHub Repository
 (https://github.com/sadiq937/AI-Driven_L2C_Optimization)
