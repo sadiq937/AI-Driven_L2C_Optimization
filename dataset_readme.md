@@ -22,12 +22,12 @@ The project aims to reduce human intervention, improve decision-making, and enha
 Two primary datasets are used for this project:
 
 1. **Bank Marketing Dataset**  
-   - **Source**: UCI Machine Learning Repository  
+   - **Source**: UCI Machine Learning Repository(https://archive.ics.uci.edu/dataset/222/bank+marketing)
    - **Description**: Contains customer interaction data from direct marketing campaigns conducted by a Portuguese bank. Key columns include customer demographics, financial details, and campaign outcomes.  
    - **Use Case**: Optimizing lead qualification, opportunity management, and customer retention.
 
 2. **CRM + Sales + Opportunities Dataset**  
-   - **Source**: Kaggle  
+   - **Source**: Kaggle(https://www.kaggle.com/datasets/innocentmfa/crm-sales-opportunities)
    - **Description**: Includes data on leads, sales opportunities, and customer interactions. Key columns include lead source, opportunity stage, expected revenue, and payment status.  
    - **Use Case**: Enhancing lead scoring, sales forecasting, and order fulfillment processes.
 
