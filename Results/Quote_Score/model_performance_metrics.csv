@@ -1,0 +1,6 @@
+,MAE,MSE,R2
+Linear Regression,0.0025,0.0,1.0
+Gradient Boosting,0.1116,0.0213,1.0
+XGBoost,0.0026,0.0,1.0
+LightGBM,0.0074,0.0001,1.0
+Neural Network,0.6867,0.7372,0.9989
