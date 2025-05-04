@@ -1,0 +1,51 @@
+#Core Data Science & ML
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+xgboost==2.0.3
+lightgbm==4.3.0
+shap==0.45.0
+
+#Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+#Emailing
+email-validator==2.1.0.post1
+# smtplib and email are built-in to Python, no need to install
+
+#Excel & CSV Handling
+openpyxl==3.1.2
+
+#Google API Clients (Calendar + Sheets)
+gspread==6.1.2
+oauth2client==4.1.3
+google-auth==2.29.0
+google-auth-oauthlib==1.2.0
+google-api-python-client==2.126.0
+
+#Scheduling & Background Tasks
+schedule==1.2.1
+
+#Deep Learning (Optional - for Neural Nets)
+tensorflow==2.16.1  # or use a lighter version if needed
+# keras is included within TensorFlow >=2.0
+
+#Testing
+pytest==8.2.1
+
+#Email Attachments & Mime
+python-magic==0.4.27  # for mimetypes fallback (Linux)
+
+#Web/Chatbot (if integrating Streamlit chatbot later)
+streamlit==1.35.0
+
+#File Paths
+python-dotenv==1.0.1  # for managing secrets via .env files (optional)
+
+#Logging (standard library)
+# No external logging module added; using logging module built-in
+
+#Notes:
+# - You may want to use a virtualenv or conda environment to manage these
+# - Some Google APIs require enabling and credential setup manually

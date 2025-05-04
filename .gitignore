@@ -1,0 +1,9 @@
+# Ignore secrets
+token.json
+credentials.json
+gspread_creds.json
+*.pem
+
+# Python ignores (recommended)
+__pycache__/
+*.pyc
